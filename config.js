@@ -11,7 +11,7 @@ const config = {
 
     // Puzzle answers - edit these to match the correct answers for each puzzle
     puzzleAnswers: [
-        "1",   // Puzzle 1
+        "43232",   // Puzzle 1
         "14",  // Puzzle 2
         "3", // Puzzle 3
         "4",   // Puzzle 4
